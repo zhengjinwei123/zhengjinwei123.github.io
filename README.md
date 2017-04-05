@@ -1,6 +1,9 @@
-## Jade's Blog
 > 关于
-[CSDN](http://blog.csdn.net/dai_jing)
-[GitHub](https://github.com/zhengjinwei123)
-
-
+* [CSDN](http://blog.csdn.net/dai_jing)
+* [GitHub](https://github.com/zhengjinwei123)
+> 项目
+* [MNode](https://github.com/zhengjinwei123/mnode)
+* [MPhp](https://github.com/zhengjinwei123/mphp)
+* [MLinux](https://github.com/zhengjinwei123/MLinux)
+* [JadeBlog](https://github.com/zhengjinwei123/jadeBlog)
+* [MDB](https://github.com/zhengjinwei123/MDB)
