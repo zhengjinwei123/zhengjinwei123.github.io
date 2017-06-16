@@ -1,7 +1,7 @@
 > Welcome to 郑金玮的个人主页 
 ## 关于
-* [CSDN博客](http://blog.csdn.net/dai_jing)
-* [GitHub托管项目](https://github.com/zhengjinwei123)
+* [CSDN  博客](http://blog.csdn.net/dai_jing)
+* [GitHub托管](https://github.com/zhengjinwei123)
 ## 项目
 * [Node.JS 开发工具包](https://github.com/zhengjinwei123/mnode)
 * [PHP 开发工具包](https://github.com/zhengjinwei123/mphp)
